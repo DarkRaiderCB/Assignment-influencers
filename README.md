@@ -13,7 +13,7 @@ This project is designed to collect data on Micro and Nano influencers on Twitte
 ## Prerequisites
 
 - **Python 3.x**
-- **Twitter Developer Account**: Obtain API keys from [Twitter Developer](https://developer.twitter.com/).
+- **Twitter Developer Account**: Obtain API keys from [Twitter Developer](https://developer.twitter.com/). Requires higher Level authorization paid plan and API v2.
 - **Libraries**: Install the required Python libraries using pip:
   ```bash
   pip install tweepy pandas
