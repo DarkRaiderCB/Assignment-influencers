@@ -40,4 +40,4 @@ python influencer_data.py
 ```
 
 
-## Thankyou!
+Thank you!
